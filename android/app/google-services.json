@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238545625209",
+    "firebase_url": "https://crime-report-32be4-default-rtdb.firebaseio.com",
+    "project_id": "crime-report-32be4",
+    "storage_bucket": "crime-report-32be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238545625209:android:7889939cbad7537d9774a8",
+        "android_client_info": {
+          "package_name": "com.e_citizen_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238545625209-viknkjagh59ekb1dooorkaf6jrigtmj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZNd10t7Iw8Och3PdSDJzJuEF7rpS7co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238545625209-viknkjagh59ekb1dooorkaf6jrigtmj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
